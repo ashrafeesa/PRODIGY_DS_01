@@ -34,6 +34,6 @@ The dataset used for this task is <a href="https://github.com/kindo-tk/PRODIGY_D
 # 📬 Contact
 <p dir="outo">For any inquiries or feedback regarding this project, please contact:</p>
 <ul dir="outo">
-  <li> <a href="https://www.linkedin.com/in/ashraf-k-eesa-b8b8802b4/"></a> Ashraf K.Eeesa</li>
-  <li> Email: <a href="ashrafeesa9@gmail.com"></a>ashrafeesa9@gmail.com</li>
+  <li> <a href="https://www.linkedin.com/in/ashraf-k-eesa-b8b8802b4/" rel="nofollow"></a> Ashraf K.Eeesa (LinkedIn)</li>
+  <li> Email: <a href="mailto:ashrafeesa9@gmail.com"></a>ashrafeesa9@gmail.com</li>
 </ul>
