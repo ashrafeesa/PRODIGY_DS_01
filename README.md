@@ -21,12 +21,12 @@ The dataset used for this task is <a href="https://github.com/kindo-tk/PRODIGY_D
 <ol dir="outo">
   <p dir="outo">
     <strong>Data Cleaning</strong>
-    ": Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly."
+    : Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly.
     
   </p>
   <p dir="outo">
     <strong>Visualization</strong>
-    ": Created a bar chart, stacked chart to visualize the distribution of a categorical or continuous variable."
+    : Created a bar chart, stacked chart to visualize the distribution of a categorical or continuous variable.
   </p>
 </ol>
 
