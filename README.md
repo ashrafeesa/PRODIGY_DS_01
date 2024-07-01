@@ -7,16 +7,16 @@
   . In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization 
   to represent the distribution of a categorical or continuous variable.</p>
 
-# Dataset
+## Dataset
 The dataset used for this task is <a href="https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/worldpopulationdata.csv"> world_population_dataset</a>. This dataset contains records of population from the year 2001 to 2022.
 
-# Tools and Libraries used
+## Tools and Libraries used
 <li>Jupyter notebook</li>
 <li>Pandas</li>
 <li>Numpy</li>
 <li>Matplotlip & Seaborn for visualization</li>
 
-# Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 <p>During the EDA process, I performed the following steps:</p>
 <ol dir="outo">
   <p dir="outo">
@@ -30,11 +30,11 @@ The dataset used for this task is <a href="https://github.com/kindo-tk/PRODIGY_D
   </p>
 </ol>
 
-# Conclusion
+## Conclusion
 <p dir="outo">In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.</p>
 <p dir="outo">Thank you for reviewing my submission!</p>
 
-# 📬 Contact
+## 📬 Contact
 <p dir="outo">For any inquiries or feedback regarding this project, please contact:</p>
 <ul dir="outo">
   <li> <a href="https://www.linkedin.com/in/ashraf-k-eesa-b8b8802b4/" rel="nofollow">Ashraf K.Eeesa (LinkedIn)</a> </li>
