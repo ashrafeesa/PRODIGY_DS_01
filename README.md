@@ -8,7 +8,7 @@
   to represent the distribution of a categorical or continuous variable.</p>
 
 ## Dataset
-The dataset used for this task is<code><a href="https://data.worldbank.org/indicator/SP.POP.TOTL">world_population_dataset</a> </code>. This dataset contains records of population from the year 2001 to 2022.
+The dataset used for this task is<code><a href="https://data.worldbank.org/indicator/SP.POP.TOTL">world_population_dataset</a></code>. This dataset contains records of population from the year 2001 to 2022.
 
 ## Tools and Libraries used
 <li>Jupyter notebook</li>
